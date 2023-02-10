@@ -1,0 +1,4 @@
+*a responsive portfolio using html css jquery
+*use of gradiant in image
+*raw css used for future jquery
+*using jQuery with button

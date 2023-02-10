@@ -1,0 +1,17 @@
+*Take value from HTML and Show result after running through loop.
+*Detailed explaination.
+*Add Eventlistener Discussing
+*Anonymus function/blank function
+*Arrow method.
+*Explained queryselector('').
+
+====#*  JQUERY  *#======
+*Difference between jQuery and JS.
+*   jQuery()-- preferable way to write but there is also another way to write 
+    $()     -- mostly done by new users but has some drawbacks    thats why the other way is done many times
+* show(),hide(),Toggle(),fadeIn(),fadeOut(), fadeToggle(), animate() fucntions introduced by jQuery.
+* slideUp(), slideDown(), slideToggle().
+*call-back function in Jquery.
+*chaining 
+* get,set,add,remove.
+*Difference of val() and text() in jQuery. html() function in jQuery

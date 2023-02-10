@@ -1,0 +1,22 @@
+*Attributes, getAttr, setAttr, removeAttr.
+*Jquery Attributes. attr().
+*jquery functions append(), prepend(), after(), before().
+*use of append().
+*jquery css classes --
+    addClass(),removeClass(),toggleClass(),CSS()
+
+* function(this) the "this" attribute use in JQUERY
+*jquery dimensions.
+    height(),InnerHeight(),OuterHeight(),width(),InnerWidth(),OuterWidth(),
+
+
+=======0 Ajax 0========
+*intro to Ajax in jquery.
+*Ajax can be used by js and jQuery.
+*how to capture data through "GET" method.
+*and the use of API Data setting into HTML and others.
+
+*Difference between API and Restfull API explained.
+*Responsive with CSS and jquery.
+*Drop-down Menu
+*use of ">" in media query

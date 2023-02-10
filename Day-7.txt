@@ -1,0 +1,18 @@
+*Bootstrap starting 
+*Plugins are made of JS,Jquery & CSS.
+*File structure or orientaiton explained
+*what is Framework?
+*what is CMS(content management system)?
+*Difference between frame-work & CMS.
+* "display" Bootstrap class is to only be used in heading 
+html tag <h1 class="display1" > heading </h1>
+* Display related Bootstrap class (d-block, d-inline, d-inline-block)
+*Responsive related xl,lg,md,sm,xm classes.
+*Bootstrap text classes
+*Bootstrap color and sizing 
+*Bootstrap margin , padding , broder.
+*Form tag explanation
+*Use of Bootstrap with form tag 
+*Use of different classes in form tag (like : prepend , apend , alert etc)
+*Bootstrap class "card"
+*Bootstrap class "modal" used with "card". modal-dialog.

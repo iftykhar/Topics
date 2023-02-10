@@ -1,0 +1,19 @@
+*Facilities of JavaScript.
+*Discussing some events, Events starts with On... such as onmouseover,
+onclick
+*what is document in HTML?
+*Concept of clean code shortly discussed .
+*Event firing in JavaScript.
+
+========O=========
+Problem Solving Rules
+
+Problem
+Variable
+Input 
+Process
+Output 
+
+*Date in JavaScript
+*Sementation of a Problem
+*The Date() Pre-defined method takes time from the device.

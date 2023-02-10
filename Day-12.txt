@@ -1,0 +1,11 @@
+*starting from 9th day left off work
+*solving the result sheet problem
+*Avg, total grade point, avg, grade, marks
+*shorten the lengthy code.
+*use of argument/parameters.
+*Difference between argument and parameters.
+*Importance of Function in class. Hence in OOP (Object Oriented Programming)
+*Introducing Loop in JavaScript
+*For Loop explaination
+*Detailed part by part understanding for Loop.
+*While, Do.....While Loops

@@ -1,0 +1,16 @@
+**Install an IDE prefreablly VS Code and 2 Browsers.
+Chrome and Mozila Firefox
+**Adobe Photoshop 2015 minimum
+
+*Header tag
+*Paragraph tag
+*bold
+*small
+*superscript
+*subscript
+*order-list
+*unorder-list
+*Table
+*Explanation of meta tag in details
+*what is Hyper text?
+*Anchor tag

@@ -1,0 +1,9 @@
+*Bootstrap Grid management 
+*Grid system gives Bootstrap an unprecedented 
+amount of advantage for responsive
+*Explaining row and column in Bootstrap Grid-system
+*Devices in Grid-system management 
+* "img-fluid" is a responsive specially for image
+*take "md" for "col" for less work as responsive
+* "offset" class in Bootstrap
+* Solving Day-3 PSD with Bootstrap.

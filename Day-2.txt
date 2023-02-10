@@ -1,0 +1,11 @@
+*anchor-tag,href,target,
+*image-tag,src,alt,width,height,
+*order-list
+*unorderlist,
+*heading, align=center,
+*table tag,caption, tr, td, border , cellspacing,
+*cellpadding,colspan,rowspan
+
+*iframe,
+*video tag
+*audio tag

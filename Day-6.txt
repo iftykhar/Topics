@@ -1,0 +1,12 @@
+*completing the 2nd PSD we'were given home-work
+*A website depends entirly 80% on image loading faster in Page.
+*Discussing about "object", "method" , "event"
+*Overlay can't be done on hover.
+*complex method of overlay hover by CSS
+*Debugging ,validation Importance.
+*There are two types of SEO 
+ on-page SEO, off-page SEO.
+*Rules of SEO friendly site no unnecessary code,
+ fresh code , image fast loading, website optimization.
+*Never name any image "contact" because live server cannot 
+capture that image.

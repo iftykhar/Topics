@@ -1,0 +1,10 @@
+*A new PSD File to web page
+*Save the PSD Elements 
+*Google Fonts
+*Link Font-Awsome and google fonts with HTML File
+*add fonts in the linked CSS file.
+*use of rgba() explaination
+*explaination of display:block, display:inline-block
+*CSS file starting with "*" refers to all tag of linked HTML
+*Menu Setting UP 
+*When to take HTML<img> and CSS image: explained

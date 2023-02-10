@@ -1,0 +1,18 @@
+*starting form where we left off at day-3
+*solving the left-over PSD fully.
+*By changing margin and padding or explicitly take another div.
+*The problem of using float.
+*Use of overflow.
+*How to solve image issues
+*A little history of Font-Awsome.
+Font-awsome is the creation of css and JavaScript.
+*How to use other's Specified code.Such as: Font-awsome
+*Difference and advantage between External & Internal File Extention
+*JS and Jquery is more executebl than CSS.
+*Using Font-Awsome
+*Implementation of font-awsome
+*<From> tag
+*Use of form in PHP and in JS, Ajax & Jquery.
+*Some discussion about cyber security relation
+* Enter the responsive area of CSS
+*Media Query @media 

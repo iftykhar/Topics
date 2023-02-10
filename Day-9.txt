@@ -1,0 +1,56 @@
+*Entering JavaScript
+*What is programming?
+*what is programming language?
+*working base of programming.
+*Programming works mainly with data.
+*what is Data? How many Types of daha?
+*Concept of Data Storing.
+*Example of RAM working on Data Loading 
+*Concept of Variable .
+    To Identify a memory certainn location is called Variable
+    In other words memory location name is Variable
+*start with character while naming vairable never use special-character
+naming Variable
+*Do not name variable over 260 character
+*Naming must be related to the task and must be meaningful.
+    it is considered to be standered.
+*Touching the topics of 
+    Data Types
+    Operators
+
+*Data Types 
+    Integer
+    Float
+    character
+    String 
+    Boolean
+*Shortly discussed '=' '==' '===' Operators
+*keywords in programming language
+*Difference between Var & Let.
+
+    Var is useble everywhere with changing ability
+    Const is fixed value of a variable
+    Let is used for limited scope
+
+*statement in Programming
+*There are two types of function
+    Builtin function
+    User defined function
+*in JavaScript to print output
+    shows in body ----- document.write()
+    shows in console ----- console.log()
+
+*concatanation Explained
+*All inputs returns string type
+*ParseInt() is built-in function to convert any data type into Integer
+
+*Control statement 
+    conditionals
+        Branching -(If-else/ switch-case)
+        Looping -(For,while,do...while, foreach)
+
+*Introducing to conditionals
+    if-else
+    ternary version of if-else
+
+*familirizing with "alert()" function of JS

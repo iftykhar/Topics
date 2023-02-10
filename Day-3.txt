@@ -1,0 +1,22 @@
+* starting css
+* what is website and webpage?
+*why is it website and webpage?
+*Detailed Discussion on HTML?
+*How many types of contents on HTML.(Text, image,video,audio)
+*Why CSS is used?
+*What is HTML Used for and why is it used?
+*what is PSD/figma/pdf to HTML?
+*How does PSD/figma/pdf to HTML works.?
+*what is full-stack developers?
+*Weakness and strength of full-stack developers.
+*Importance of SVG.
+*Short Description of JPEG(Joint Pixel Exported Graphics),JPG(Joint Pixel Graphics),
+PNG(Portable Network Graphics),SVG(Scalable Vector Graphics).
+*How to separate single layer from PSD
+*save Logos from PSD by "save for web" option.
+* Concept clearing of Website Optimization
+*Difference Between <section> and <div>
+*Why is Standerdization important for web development.
+*** Only once use <h1> for SEO rules.#
+*Difference Between"id" and "class".
+*use of Box Model. Margin, padding, border

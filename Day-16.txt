@@ -1,0 +1,26 @@
+*Introducing to Jquery SEO 
+*SEO needs 3 meta tags.
+*why commenting is important.
+*meta tags (competability , character set , view port)
+*Proper explaination of all three tags
+*Multiple uses of different meta tags. 
+*Importance meta tag in character set.
+
+*SEO two types 
+    On-page SEO
+    Off-page SEO 
+
+*On page SEO is important for google to know that the website is ready for SEO
+*Off page SEO is important for SEO Ranking to come at the top of the list
+
+*SEO on page tags get hit on by search engines
+    title, meta keyword,meta Description.
+*title can be 60 character at max 70 character
+*keywords is 10 to be precise by the new SEO rules
+*profile backing 
+*Description standered 160 characters
+*Image SEO, Image property -> dettails -> title -> rating 5star -> tages [name] -> author[name] -> token
+
+*style sheet, template name, tmeplate url, Description, Author-url,version
+
+====*0 jQuery Plugins 0*=====
